@@ -1,52 +1,18 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian_docs_local]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>obsidian_docs_local</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 22 May 2024 21:16:52 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 22 May 2024 21:16:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[RustyDigitalPitchFollower]]></title><description><![CDATA[ 
- <br><br>Rust app to convert an audio stream into a midi stream to trigger external synthesizers.<br><br>Run cargo build --release followed by target\\release\\pitch2synth-rs.exe to build and run an optimized executable<br><br><br>
-<br>Audio aquisition thread
-
-<br>Managed by CPAL(Cross Platform Audio Library) via callback
-<br>Communicates via Bus to transmit audio to pitch estimation and UI threads
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian_docs_local]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>obsidian_docs_local</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 02 Aug 2024 20:54:00 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 02 Aug 2024 20:53:59 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Thelonious Cooper  |  <a data-tooltip-position="top" aria-label="https://www.linkedin.com/in/thelonious-cooper-88000a178/" rel="noopener" class="external-link" href="https://www.linkedin.com/in/thelonious-cooper-88000a178/" target="_blank">LinkedIn</a>  |  <a data-tooltip-position="top" aria-label="https://github.com/theloni-monk" rel="noopener" class="external-link" href="https://github.com/theloni-monk" target="_blank">Github</a> | <a data-tooltip-position="top" aria-label="https://essg.mit.edu/" rel="noopener" class="external-link" href="https://essg.mit.edu/" target="_blank">ESSG</a>]]></title><description><![CDATA[ 
+ <br><br><br><br><br>
+<br>
 
 
-<br>Pitch estimation thread
-
-<br>Computes Constant-Q transform via Goertzel algorithm
-<br>Takes argmax of frequency ampltiudes
-<br>Accounts by harmonic errors
-<br>Communicates via Bus to transmit frequency data to MIDI and UI threads
+<br>
 
 
-<br>MIDI handler thread
-
-<br>Takes pitch data and sends corresponding MIDI note to external synthesizer via USB
+<br>
 
 
-<br>UI Thread
-
-<br>Takes audio waveform from audio thread and frequency data from pitch thread and renders GUI
-
-
-<br><img alt="GUI" src="personal-projects\rdpf-ui-example.png">]]></description><link>personal-projects\rustydigitalpitchfollower.html</link><guid isPermaLink="false">Personal Projects/RustyDigitalPitchFollower.md</guid><pubDate>Wed, 22 May 2024 21:16:31 GMT</pubDate><enclosure url="personal-projects\rdpf-ui-example.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="personal-projects\rdpf-ui-example.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[RaspiCameraLivestream]]></title><description><![CDATA[ 
- <br><br><br><br><br><br>Open your terminal and type:<br>sudo python -m pip install rpistream
-Copy<br><br>Open cmd as admin and type:<br>pip install rpistream
-Copy<br><br><br><br>Server<br>from rpistream.camera import Camera
-from rpistream.streamserver import Server
-import cv2
-
-def retrieveImage(cam,imgResize):
-    image = cv2.resize(cam.image,(0,0),fx=imgResize,fy=imgResize)
-    return image
-
-cam = Camera(mirror=True)
-scale=0.5
-server = Server(port=5000)
-server.serve() # Blocking; waits for a connection before continuing
-server.startStream(retrieveImage,[cam,scale]) # Calls retrieveImage(*args) every frame  
-Copy<br>Client<br>from rpistream.streamclient import Client
-import cv2
-
-client = Client(serverIp="localhost", port = 5000) # Connects to the server
-client.startStream() # Starts recieving data and displaying the video
-Copy<br><br><br>
-<br>numpy
-<br>zstandard
-<br>openCv-python
-]]></description><link>personal-projects\rpistream.html</link><guid isPermaLink="false">Personal Projects/RPiStream.md</guid><pubDate>Wed, 22 May 2024 04:38:38 GMT</pubDate></item></channel></rss>
+<br><br><br><br>CIVO is an industrial partnership center with the mission "To promote the development, use, and dissemination of innovative display, graphics, and optical technology for the healthy and diseased eye." Several high-tech companies in the AR/VR space (Apple, Meta, Google to name a few) are very interested in how the visual system interacts with their technology. During my time at UC Berkeley I worked with the Ocular Motor Control Lab and the Active Vision and Computational Neuroscience Lab to generate large-scale synthetic 3d scene data for computer vision applications. Building on the Nvidia IsaacLab Framework, I wrote a library that integrates a simulacrum of a human visual system into a 3d rendering environment. Goals for the use of this project include training CV models with the ability to decide where to look based on visual cues, and be able to reason about their location in the environment purely from visual data.<br><br>Developed and implemented novel methodology for the evaluation of resilience in sophisticated drone autopilots. Simulated communications failures within an RTOS embedded-linux flight stack and modeled autopilot recovery performance.<br>
+Presented at PX4 Developer Summit in 2023. Recorded talk available below<br>
+<a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=yKimjMqtlew" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=yKimjMqtlew" target="_blank">PX4-DevSummit YouTube</a><br>
+Published first-author publication detailing methods in 2024 IEEE International Conference on Unmanned Aerial Systems<br>
+<a data-tooltip-position="top" aria-label="https://ieeexplore.ieee.org/document/10556902" rel="noopener" class="external-link" href="https://ieeexplore.ieee.org/document/10556902" target="_blank">IEEE Conference Publication | IEEE Xplore</a><br><br>Worked under PhD candidate Mustafa Doga Dogan on research centered around spatial encoding schemas and computer vision. Implemented ArUco marker tracking on Infrared Cameras on Microsoft HoloLens for lightweight object tracking in AR. Bypassed Android hardware restriction to access Infrared camera on phone.<br><br><br><br>Worked in an embedded Linux environment to implement the BGP routing stack within the next generation firmware for the Meraki MX routing security appliance. Integrated legacy C software into a modern C++ development environment. Performed extensive integration testing in proprietary Python-based test environment and unit tests in Google's C++ GTest framework. Gained experience in an AGILE production environment with rigorous code review. Achieved an outstanding performance evaluation.<br><br>Worked under Professor Nir Grossman and Dr. David Wang to facilitate communication and control in C++ between EEG and custom visual response device for neuroscience experiments.<br><br><br><br>MIT 18.354 Nonlinear Dynamics: Continuum Systems individual final project.<br>
+This paper is a playful exploration and derivation of Kalman filtering and computational fluid simulation.<br><br>MIT 6.205: Digital Systems Laboratory individual final project<br>
+Bespoke is a system for synthesizing FPGA stream processors from 8-bit quantized neural network specifications.<br><br>Multithreaded Rust app to convert an audio stream into a midi stream to trigger external synthesizers.<br><br>Using ML to style transfer vocal timbre via differentiable digital signal processing (DDSP) in tensorflow.<br><br>WebGL fragment shader which renders the Mandelbrot and Julia Sets<br><br>This is a simple library for losslessly streaming compressed video in real-time]]></description><link>portfolio\index.html</link><guid isPermaLink="false">portfolio/index.md</guid><pubDate>Fri, 02 Aug 2024 20:52:58 GMT</pubDate><enclosure url="portfolio\headshot.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="portfolio\headshot.jpg"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>

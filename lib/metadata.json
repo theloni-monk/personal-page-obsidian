@@ -1,19 +1,19 @@
 {
   "vaultName": "obsidian_docs_local",
-  "lastExport": 1716412611910,
+  "lastExport": 1722632039644,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Personal Projects/bespoke.pdf",
-    "Personal Projects/rdpf-ui-example.png",
-    "Personal Projects/RPiStream.md",
-    "Personal Projects/RustyDigitalPitchFollower.md",
-    "Personal Projects/saving-castaway-bob.pdf",
-    "Personal Projects/vocal-timbre-transfer.pdf",
-    "headshot.jpg",
-    "index.canvas",
+    "portfolio/Personal Projects/bespoke.pdf",
+    "portfolio/Personal Projects/rdpf-ui-example.png",
+    "portfolio/Personal Projects/RPiStream.md",
+    "portfolio/Personal Projects/RustyDigitalPitchFollower.md",
+    "portfolio/Personal Projects/saving-castaway-bob.pdf",
+    "portfolio/Personal Projects/vocal-timbre-transfer.pdf",
+    "portfolio/headshot.jpg",
+    "portfolio/index.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -29,6 +29,7 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -42,7 +43,7 @@
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
-    "personal-projects/ui_example.png"
+    "portfolio/personal-projects/rdpf-ui-example.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -60,6 +61,7 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -75,237 +77,238 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
+    "portfolio/Personal Projects/bespoke.pdf": {
+      "modifiedTime": 1722630999446,
+      "sourceSize": 2466222,
+      "exportedPath": "portfolio/personal-projects/bespoke.pdf",
+      "dependencies": []
+    },
+    "portfolio/Personal Projects/rdpf-ui-example.png": {
+      "modifiedTime": 1722630999446,
+      "sourceSize": 28573,
+      "exportedPath": "portfolio/personal-projects/rdpf-ui-example.png",
+      "dependencies": []
+    },
+    "portfolio/Personal Projects/RPiStream.md": {
+      "modifiedTime": 1722630999446,
+      "sourceSize": 1107,
+      "exportedPath": "portfolio/personal-projects/rpistream.html",
+      "dependencies": []
+    },
+    "portfolio/Personal Projects/RustyDigitalPitchFollower.md": {
+      "modifiedTime": 1722630999446,
+      "sourceSize": 999,
+      "exportedPath": "portfolio/personal-projects/rustydigitalpitchfollower.html",
+      "dependencies": [
+        "portfolio/personal-projects/rdpf-ui-example.png",
+        "portfolio/personal-projects/rdpf-ui-example.png"
+      ]
+    },
+    "portfolio/Personal Projects/saving-castaway-bob.pdf": {
+      "modifiedTime": 1722630999446,
+      "sourceSize": 401353,
+      "exportedPath": "portfolio/personal-projects/saving-castaway-bob.pdf",
+      "dependencies": []
+    },
+    "portfolio/Personal Projects/vocal-timbre-transfer.pdf": {
+      "modifiedTime": 1722630999446,
+      "sourceSize": 510106,
+      "exportedPath": "portfolio/personal-projects/vocal-timbre-transfer.pdf",
+      "dependencies": []
+    },
+    "portfolio/headshot.jpg": {
+      "modifiedTime": 1722632039644,
+      "sourceSize": 1037906,
+      "exportedPath": "portfolio/headshot.jpg",
+      "dependencies": []
+    },
+    "portfolio/index.md": {
+      "modifiedTime": 1722632039644,
+      "sourceSize": 8482,
+      "exportedPath": "portfolio/index.html",
+      "dependencies": [
+        "portfolio/headshot.jpg",
+        "portfolio/headshot.jpg"
+      ]
+    },
+    "portfolio/personal-projects/rdpf-ui-example.png": {
+      "modifiedTime": 1722630999446,
+      "sourceSize": 28573,
+      "exportedPath": "portfolio/personal-projects/rdpf-ui-example.png",
+      "dependencies": []
+    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1722632039644,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1716412611910,
-      "sourceSize": 4265,
+      "modifiedTime": 1722632039644,
+      "sourceSize": 4906,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1716412611910,
-      "sourceSize": 402,
+      "modifiedTime": 1722632039644,
+      "sourceSize": 439,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1716412611910,
-      "sourceSize": 157722,
+      "modifiedTime": 1722632039644,
+      "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1716412611910,
+      "modifiedTime": 1722632039644,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "Personal Projects/RPiStream.md": {
-      "modifiedTime": 1716391251286,
-      "sourceSize": 1107,
-      "exportedPath": "personal-projects/rpistream.html",
-      "dependencies": []
-    },
-    "Personal Projects/RustyDigitalPitchFollower.md": {
-      "modifiedTime": 1716412611910,
-      "sourceSize": 999,
-      "exportedPath": "personal-projects/rustydigitalpitchfollower.html",
-      "dependencies": [
-        "personal-projects/rdpf-ui-example.png",
-        "personal-projects/rdpf-ui-example.png"
-      ]
-    },
-    "personal-projects/ui_example.png": {
-      "modifiedTime": 1716391251286,
-      "sourceSize": 28573,
-      "exportedPath": "personal-projects/ui_example.png",
-      "dependencies": []
-    },
-    "Personal Projects/saving-castaway-bob.pdf": {
-      "modifiedTime": 1716391992281,
-      "sourceSize": 401353,
-      "exportedPath": "personal-projects/saving-castaway-bob.pdf",
-      "dependencies": []
-    },
-    "Personal Projects/vocal-timbre-transfer.pdf": {
-      "modifiedTime": 1716391992281,
-      "sourceSize": 510106,
-      "exportedPath": "personal-projects/vocal-timbre-transfer.pdf",
-      "dependencies": []
-    },
-    "Personal Projects/bespoke.pdf": {
-      "modifiedTime": 1716412611910,
-      "sourceSize": 2466222,
-      "exportedPath": "personal-projects/bespoke.pdf",
-      "dependencies": []
-    },
-    "Personal Projects/rdpf-ui-example.png": {
-      "modifiedTime": 1716412611910,
-      "sourceSize": 28573,
-      "exportedPath": "personal-projects/rdpf-ui-example.png",
-      "dependencies": []
-    },
-    "headshot.jpg": {
-      "modifiedTime": 1716412611910,
-      "sourceSize": 1037906,
-      "exportedPath": "headshot.jpg",
-      "dependencies": []
-    },
-    "index.canvas": {
-      "modifiedTime": 1716412611910,
-      "sourceSize": 5922,
-      "exportedPath": "index.html",
-      "dependencies": [
-        "headshot.jpg"
-      ]
-    },
-    "personal-projects/rdpf-ui-example.png": {
-      "modifiedTime": 1716412611910,
-      "sourceSize": 28573,
-      "exportedPath": "personal-projects/rdpf-ui-example.png",
       "dependencies": []
     }
   }
