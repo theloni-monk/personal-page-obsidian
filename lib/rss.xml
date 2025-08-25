@@ -1,5 +1,6 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian_docs_local]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>obsidian_docs_local</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 02 Aug 2024 20:54:00 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 02 Aug 2024 20:53:59 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Thelonious Cooper  |  <a data-tooltip-position="top" aria-label="https://www.linkedin.com/in/thelonious-cooper-88000a178/" rel="noopener" class="external-link" href="https://www.linkedin.com/in/thelonious-cooper-88000a178/" target="_blank">LinkedIn</a>  |  <a data-tooltip-position="top" aria-label="https://github.com/theloni-monk" rel="noopener" class="external-link" href="https://github.com/theloni-monk" target="_blank">Github</a> | <a data-tooltip-position="top" aria-label="https://essg.mit.edu/" rel="noopener" class="external-link" href="https://essg.mit.edu/" target="_blank">ESSG</a>]]></title><description><![CDATA[ 
- <br><br><br><br><br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tcoop_obsidian_remote]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://theloniouscoop.dev/</link><image><url>.\https:\\theloniouscoop.dev\lib\media\favicon.ico</url><title>tcoop_obsidian_remote</title><link>https://theloniouscoop.dev/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 25 Aug 2025 03:06:32 GMT</lastBuildDate><atom:link href=".\https:\\theloniouscoop.dev\lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 25 Aug 2025 03:06:32 GMT</pubDate><copyright><![CDATA[Thelonious Cooper]]></copyright><ttl>60</ttl><dc:creator>Thelonious Cooper</dc:creator><item><title><![CDATA[Thelonious Cooper  |  <a data-tooltip-position="top" aria-label="https://www.linkedin.com/in/thelonious-cooper-88000a178/" rel="noopener nofollow" class="external-link" href="https://www.linkedin.com/in/thelonious-cooper-88000a178/" target="_blank">LinkedIn</a>  |  <a data-tooltip-position="top" aria-label="https://github.com/theloni-monk" rel="noopener nofollow" class="external-link" href="https://github.com/theloni-monk" target="_blank">Github</a> | <a data-tooltip-position="top" aria-label="https://scholar.google.com/citations?hl=en&amp;user=eBH7RzUAAAAJ&amp;view_op=list_works&amp;gmla=ANZ5fUOVqXC8uIDOkdVvO9-RxQOajH9vUzz6r9iFnBIeGiskg1Xnt_SUP7BBHzf5vZEtLaDikP2KgIud74ayvHjU" rel="noopener nofollow" class="external-link" href="https://scholar.google.com/citations?hl=en&amp;user=eBH7RzUAAAAJ&amp;view_op=list_works&amp;gmla=ANZ5fUOVqXC8uIDOkdVvO9-RxQOajH9vUzz6r9iFnBIeGiskg1Xnt_SUP7BBHzf5vZEtLaDikP2KgIud74ayvHjU" target="_blank">GScholar</a>]]></title><description><![CDATA[ 
+ <br><br><br><img src=".\https:\\theloniouscoop.dev\portfolio\headshot.jpg" align="right" referrerpolicy="no-referrer" style="max-width: 100%;">
+Hi, I'm Thelonious Cooper: a human, artist, and engineer. I got my B.S. in Electrical Science &amp; Engineering from MIT in 2025 and am currently in the EECS PhD program at UC Berkeley. I seek to affect positive change in the world by leveraging my knowledge of mathematical modeling and hardware/software engineering to innovate across scales in the fields of embedded control, communication, and sensing.Outside of work, I love making and listening to music. I spend time playing jazz and funk music on bass and guitar in jam sessions with my friends. I also enjoy pencil drawing and long rambling conversations with anyone of shared interest.<br><br><br>I want to center my work on tangible systems for large-scale human benefit centered on those in need. I have broad interests lying at the intersection of applied mathematics and cybernetic systems. I strive develop new methodologies for sensing and actuation under uncertainty alongside secure digital hardware platforms tailored to such applications. My full-stack knowledge and experiences from Math  Physics  Electronics  Firmware  Software allow me to think big and connect problem solving techniques across many domains of human endeavor. <br><br>At UC Berkeley I am a member of Intelligent and Quantum Photonics Group. I work on ultra-low power implementations of machine learning inference and training on photonic circuits. Upon acceptance to the EECS PhD program I was awarded one of three UC Berkeley Chancellor's Fellowship across the incoming doctoral class for outstanding academic achievement.<br><br>During my time at MIT I was named an Arts Scholar for engagement in the visual and performing arts community. In 2024 I was awarded the title of MIT Climate Grand Challenges Undergraduate Research and Innovation Scholar for my work in the <a data-tooltip-position="top" aria-label="https://superurop.mit.edu/scholars/thelonious-abraham-cooper/?scholar-cohort=742&amp;scholar-page=1" rel="noopener nofollow" class="external-link" href="https://superurop.mit.edu/scholars/thelonious-abraham-cooper/?scholar-cohort=742&amp;scholar-page=1" target="_blank">SuperUROP</a> program. I have served on the Undergraduate Advisory Group for the <a data-tooltip-position="top" aria-label="https://computing.mit.edu/" rel="noopener nofollow" class="external-link" href="https://computing.mit.edu/" target="_blank">Schwartzman College of Computing</a>, interfacing directly with leading faculty in MIT EECS and the SCC to advocate for undergraduates. I have also served academic chair for <a class="internal-link" data-href="ccity.mit.edu" href=".\https:\\theloniouscoop.dev\ccity.mit.edu" target="_self" rel="noopener nofollow">Chocolate City</a>, a living group of underrepresented men of color in STEM <br><br><br>
 <br>
 
 
@@ -9,10 +10,89 @@
 <br>
 
 
-<br><br><br><br>CIVO is an industrial partnership center with the mission "To promote the development, use, and dissemination of innovative display, graphics, and optical technology for the healthy and diseased eye." Several high-tech companies in the AR/VR space (Apple, Meta, Google to name a few) are very interested in how the visual system interacts with their technology. During my time at UC Berkeley I worked with the Ocular Motor Control Lab and the Active Vision and Computational Neuroscience Lab to generate large-scale synthetic 3d scene data for computer vision applications. Building on the Nvidia IsaacLab Framework, I wrote a library that integrates a simulacrum of a human visual system into a 3d rendering environment. Goals for the use of this project include training CV models with the ability to decide where to look based on visual cues, and be able to reason about their location in the environment purely from visual data.<br><br>Developed and implemented novel methodology for the evaluation of resilience in sophisticated drone autopilots. Simulated communications failures within an RTOS embedded-linux flight stack and modeled autopilot recovery performance.<br>
-Presented at PX4 Developer Summit in 2023. Recorded talk available below<br>
-<a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=yKimjMqtlew" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=yKimjMqtlew" target="_blank">PX4-DevSummit YouTube</a><br>
-Published first-author publication detailing methods in 2024 IEEE International Conference on Unmanned Aerial Systems<br>
-<a data-tooltip-position="top" aria-label="https://ieeexplore.ieee.org/document/10556902" rel="noopener" class="external-link" href="https://ieeexplore.ieee.org/document/10556902" target="_blank">IEEE Conference Publication | IEEE Xplore</a><br><br>Worked under PhD candidate Mustafa Doga Dogan on research centered around spatial encoding schemas and computer vision. Implemented ArUco marker tracking on Infrared Cameras on Microsoft HoloLens for lightweight object tracking in AR. Bypassed Android hardware restriction to access Infrared camera on phone.<br><br><br><br>Worked in an embedded Linux environment to implement the BGP routing stack within the next generation firmware for the Meraki MX routing security appliance. Integrated legacy C software into a modern C++ development environment. Performed extensive integration testing in proprietary Python-based test environment and unit tests in Google's C++ GTest framework. Gained experience in an AGILE production environment with rigorous code review. Achieved an outstanding performance evaluation.<br><br>Worked under Professor Nir Grossman and Dr. David Wang to facilitate communication and control in C++ between EEG and custom visual response device for neuroscience experiments.<br><br><br><br>MIT 18.354 Nonlinear Dynamics: Continuum Systems individual final project.<br>
-This paper is a playful exploration and derivation of Kalman filtering and computational fluid simulation.<br><br>MIT 6.205: Digital Systems Laboratory individual final project<br>
-Bespoke is a system for synthesizing FPGA stream processors from 8-bit quantized neural network specifications.<br><br>Multithreaded Rust app to convert an audio stream into a midi stream to trigger external synthesizers.<br><br>Using ML to style transfer vocal timbre via differentiable digital signal processing (DDSP) in tensorflow.<br><br>WebGL fragment shader which renders the Mandelbrot and Julia Sets<br><br>This is a simple library for losslessly streaming compressed video in real-time]]></description><link>portfolio\index.html</link><guid isPermaLink="false">portfolio/index.md</guid><pubDate>Fri, 02 Aug 2024 20:52:58 GMT</pubDate><enclosure url="portfolio\headshot.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="portfolio\headshot.jpg"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+<br><br><br><br>
+<br>Working with professor <a data-tooltip-position="top" aria-label="https://vcresearch.berkeley.edu/faculty/zaijun-chen" rel="noopener nofollow" class="external-link" href="https://vcresearch.berkeley.edu/faculty/zaijun-chen" target="_blank">Zaijun Chen</a> to develop integrated photonic devices and algorithms for real time data processing and sensor-fusion applications.
+<br>Establishing frameworks and architectures for reliable and provably safe cybernetic systems.
+<br><br>
+<br>Worked with professor <a data-tooltip-position="top" aria-label="https://lizhongzheng.github.io/" rel="noopener nofollow" class="external-link" href="https://lizhongzheng.github.io/" target="_blank">Lizhong Zheng</a> on novel mathematical models of nonlinear dynamical systems. 
+<br>Theoretical work involving orthogonal polynomial decompositions of nonlinear state space models. 
+<br>Developed new (still unpublished) methodology for nonlinear system identification and control.
+<br><br>
+<br>Designed and implemented pipeline to generate large-scale synthetic 3d scene data for computer vision applications. 
+<br>Built on the Nvidia <a data-tooltip-position="top" aria-label="https://www.nvidia.com/en-us/omniverse/" rel="noopener nofollow" class="external-link" href="https://www.nvidia.com/en-us/omniverse/" target="_blank">Omniverse</a> and IsaacLab frameworks to write a library that integrates a simulacrum of a human visual system into a 3d rendering environment.
+<br>Trained CV models with the ability to decide where to look based on visual cues, and be able to reason about their location in the environment purely from visual data.
+<br>Goals for the use of this project include training CV models with the ability to decide where to look based on visual cues, and be able to reason about their location in the environment purely from visual data.
+<br><br>
+<br>Developed and implemented novel methodology for the evaluation of resilience in sophisticated drone autopilots. Simulated communications failures within an RTOS embedded-linux flight stack and modeled autopilot recovery performance.
+<br>Presented at PX4 Developer Summit in 2023. Recorded talk available below<br>
+<a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=yKimjMqtlew" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=yKimjMqtlew" target="_blank">PX4-DevSummit YouTube</a>
+<br>Published first-author publication detailing methods in 2024 IEEE International Conference on Unmanned Aerial Systems where I served as reliability systems program co-chair.<br>
+<a data-tooltip-position="top" aria-label="https://ieeexplore.ieee.org/document/10556902" rel="noopener nofollow" class="external-link" href="https://ieeexplore.ieee.org/document/10556902" target="_blank">IEEE Conference Publication | IEEE Xplore</a>
+<br>Created novel PyTorch implementation of Informative Ensemble Kalman Learning, a variant of Gaussian Process Regression and Markov-chain Monte Carlo, to optimize climate models and forecast extremes for risk assessment. Results were not submitted for publication but are available on this page: <a data-href="IEKL.pdf" href=".\https:\\theloniouscoop.dev\portfolio\personal-projects\iekl.pdf" class="internal-link" target="_self" rel="noopener nofollow">IEKL.pdf</a> 
+<br><br>
+<br>Completed OpenCV C++ application to decode camera feed of a laser cut object into a message. 
+<br>Wrote a javascript interface to embed spatial codes into the joints of laser cut structures in SVG format. 
+<br>Implemented ArUco marker tracking on Infrared Cameras on Microsoft HoloLens for lightweight object tracking in AR. 
+<br>Bypassed Android hardware restriction to access Infrared camera on phone.
+<br><br><br><br>
+<br>Worked in an embedded Linux environment to implement the BGP routing stack within the next generation firmware for the Meraki MX routing security appliance. 
+<br>Integrated legacy C software into a modern C++ development environment. 
+<br>Performed extensive integration testing in proprietary Python-based test environment and unit tests in Google's C++ GTest framework. 
+<br>Gained experience in an AGILE production environment with rigorous code review. 
+<br>Achieved an outstanding performance evaluation.
+<br><br>
+<br>Implemented communication and control codes in C++ for a closed-loop EEG monitoring and stimulation device which was used in Neuroscience studies.
+<br><br><br><br>VitalVault is a free and open-source project I started which is dedicated to the secure storage and easy retrieval of medical documents. Written in Rust and React Native, it implements file storage and document retrieval across languages and contexts via LLM semantic embedding run natively on one's mobile device.<br><br>Individual thesis project for a graduate course in Digital Integrated Systems taken during my undergrad at MIT.<br>
+Bespoke is a compiler for synthesizing FPGA stream processors from 8-bit quantized neural network specifications.<br><br>MIT 18.354 Nonlinear Dynamics: Continuum Systems individual final project.<br>
+This paper is a playful exploration and derivation of Kalman filtering and computational fluid simulation.<br><br>I served on the board and designed the website for MIT's undergraduate-produced fashion magazine.<br><br>Multithreaded Rust app to convert an audio stream into a midi stream to trigger external synthesizers.<br><br>21M.080 individual Final Project. Using ML to style transfer vocal timbre via differentiable digital signal processing (DDSP) in tensorflow.<br><br>WebGL fragment shader which renders the Mandelbrot and Julia Sets<br><br>This is a simple library for losslessly streaming compressed video in real-time<br><br>copyright 2025 Thelonious Cooper]]></description><link>.\https:\\theloniouscoop.dev\portfolio\index.html</link><guid isPermaLink="false">Portfolio/index.md</guid><dc:creator><![CDATA[Thelonious Cooper]]></dc:creator><pubDate>Mon, 25 Aug 2025 03:05:40 GMT</pubDate><enclosure url=".\https:\\theloniouscoop.dev\portfolio\headshot.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=".\https:\\theloniouscoop.dev\portfolio\headshot.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[RaspiCameraLivestream]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>Open your terminal and type:<br>sudo python -m pip install rpistream
+<br><br>Open cmd as admin and type:<br>pip install rpistream
+<br><br><br><br>Server<br>from rpistream.camera import Camera
+from rpistream.streamserver import Server
+import cv2
+
+def retrieveImage(cam,imgResize):
+    image = cv2.resize(cam.image,(0,0),fx=imgResize,fy=imgResize)
+    return image
+
+cam = Camera(mirror=True)
+scale=0.5
+server = Server(port=5000)
+server.serve() # Blocking; waits for a connection before continuing
+server.startStream(retrieveImage,[cam,scale]) # Calls retrieveImage(*args) every frame  
+<br>Client<br>from rpistream.streamclient import Client
+import cv2
+
+client = Client(serverIp="localhost", port = 5000) # Connects to the server
+client.startStream() # Starts recieving data and displaying the video
+<br><br><br>
+<br>numpy
+<br>zstandard
+<br>openCv-python
+]]></description><link>.\https:\\theloniouscoop.dev\portfolio\personal-projects\rpistream.html</link><guid isPermaLink="false">Portfolio/Personal Projects/RPiStream.md</guid><dc:creator><![CDATA[Thelonious Cooper]]></dc:creator><pubDate>Wed, 22 May 2024 04:38:38 GMT</pubDate></item><item><title><![CDATA[RustyDigitalPitchFollower]]></title><description><![CDATA[ 
+ <br><br>Rust app to convert an audio stream into a midi stream to trigger external synthesizers.<br><br>Run cargo build --release followed by target\\release\\pitch2synth-rs.exe to build and run an optimized executable<br><br><br>
+<br>Audio aquisition thread
+
+<br>Managed by CPAL(Cross Platform Audio Library) via callback
+<br>Communicates via Bus to transmit audio to pitch estimation and UI threads
+
+
+<br>Pitch estimation thread
+
+<br>Computes Constant-Q transform via Goertzel algorithm
+<br>Takes argmax of frequency ampltiudes
+<br>Accounts by harmonic errors
+<br>Communicates via Bus to transmit frequency data to MIDI and UI threads
+
+
+<br>MIDI handler thread
+
+<br>Takes pitch data and sends corresponding MIDI note to external synthesizer via USB
+
+
+<br>UI Thread
+
+<br>Takes audio waveform from audio thread and frequency data from pitch thread and renders GUI
+
+
+<br><img alt="GUI" src=".\https:\\theloniouscoop.dev\portfolio\personal-projects\rdpf-ui-example.png">]]></description><link>.\https:\\theloniouscoop.dev\portfolio\personal-projects\rustydigitalpitchfollower.html</link><guid isPermaLink="false">Portfolio/Personal Projects/RustyDigitalPitchFollower.md</guid><dc:creator><![CDATA[Thelonious Cooper]]></dc:creator><pubDate>Wed, 22 May 2024 21:16:31 GMT</pubDate><enclosure url=".\https:\\theloniouscoop.dev\portfolio\personal-projects\rdpf-ui-example.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=".\https:\\theloniouscoop.dev\portfolio\personal-projects\rdpf-ui-example.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>

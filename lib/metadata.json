@@ -1,25 +1,27 @@
 {
-  "vaultName": "obsidian_docs_local",
-  "lastExport": 1722632039644,
+  "vaultName": "tcoop_obsidian_remote",
+  "lastExport": 1756091192014,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
-  "useCustomFavicon": false,
+  "useCustomFavicon": true,
   "files": [
-    "portfolio/Personal Projects/bespoke.pdf",
-    "portfolio/Personal Projects/rdpf-ui-example.png",
-    "portfolio/Personal Projects/RPiStream.md",
-    "portfolio/Personal Projects/RustyDigitalPitchFollower.md",
-    "portfolio/Personal Projects/saving-castaway-bob.pdf",
-    "portfolio/Personal Projects/vocal-timbre-transfer.pdf",
-    "portfolio/headshot.jpg",
-    "portfolio/index.md",
-    "lib/scripts/graph-wasm.wasm",
+    "Portfolio/Personal Projects/Bespoke.pdf",
+    "Portfolio/Personal Projects/IEKL.pdf",
+    "Portfolio/Personal Projects/rdpf-ui-example.png",
+    "Portfolio/Personal Projects/RPiStream.md",
+    "Portfolio/Personal Projects/RustyDigitalPitchFollower.md",
+    "Portfolio/Personal Projects/saving-castaway-bob.pdf",
+    "Portfolio/Personal Projects/vocal-timbre-transfer.pdf",
+    "Portfolio/headshot.jpg",
+    "Portfolio/index.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
     "lib/fonts/c8ba52b05a9ef10f4758.woff2",
     "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
     "lib/fonts/b5f0f109bc88052d4000.woff2",
     "lib/fonts/cbe0ae49c52c920fd563.woff2",
     "lib/fonts/535a6cf662596b3bd6a6.woff2",
@@ -28,30 +30,46 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
-    "lib/html/file-tree.html",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
     "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
+    "lib/media/favicon.ico",
     "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
-    "portfolio/personal-projects/rdpf-ui-example.png"
+    "portfolio/personal-projects/rdpf-ui-example.png",
+    "portfolio/headshot.jpg"
   ],
   "mainDependencies": [
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
     "lib/fonts/c8ba52b05a9ef10f4758.woff2",
     "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
     "lib/fonts/b5f0f109bc88052d4000.woff2",
     "lib/fonts/cbe0ae49c52c920fd563.woff2",
     "lib/fonts/535a6cf662596b3bd6a6.woff2",
@@ -60,163 +78,117 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
-    "lib/html/file-tree.html",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
     "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
+    "lib/media/favicon.ico",
     "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "portfolio/Personal Projects/bespoke.pdf": {
-      "modifiedTime": 1722630999446,
-      "sourceSize": 2466222,
-      "exportedPath": "portfolio/personal-projects/bespoke.pdf",
-      "dependencies": []
-    },
-    "portfolio/Personal Projects/rdpf-ui-example.png": {
-      "modifiedTime": 1722630999446,
-      "sourceSize": 28573,
-      "exportedPath": "portfolio/personal-projects/rdpf-ui-example.png",
-      "dependencies": []
-    },
-    "portfolio/Personal Projects/RPiStream.md": {
-      "modifiedTime": 1722630999446,
-      "sourceSize": 1107,
-      "exportedPath": "portfolio/personal-projects/rpistream.html",
-      "dependencies": []
-    },
-    "portfolio/Personal Projects/RustyDigitalPitchFollower.md": {
-      "modifiedTime": 1722630999446,
-      "sourceSize": 999,
-      "exportedPath": "portfolio/personal-projects/rustydigitalpitchfollower.html",
-      "dependencies": [
-        "portfolio/personal-projects/rdpf-ui-example.png",
-        "portfolio/personal-projects/rdpf-ui-example.png"
-      ]
-    },
-    "portfolio/Personal Projects/saving-castaway-bob.pdf": {
-      "modifiedTime": 1722630999446,
-      "sourceSize": 401353,
-      "exportedPath": "portfolio/personal-projects/saving-castaway-bob.pdf",
-      "dependencies": []
-    },
-    "portfolio/Personal Projects/vocal-timbre-transfer.pdf": {
-      "modifiedTime": 1722630999446,
-      "sourceSize": 510106,
-      "exportedPath": "portfolio/personal-projects/vocal-timbre-transfer.pdf",
-      "dependencies": []
-    },
-    "portfolio/headshot.jpg": {
-      "modifiedTime": 1722632039644,
-      "sourceSize": 1037906,
-      "exportedPath": "portfolio/headshot.jpg",
-      "dependencies": []
-    },
-    "portfolio/index.md": {
-      "modifiedTime": 1722632039644,
-      "sourceSize": 8482,
-      "exportedPath": "portfolio/index.html",
-      "dependencies": [
-        "portfolio/headshot.jpg",
-        "portfolio/headshot.jpg"
-      ]
-    },
-    "portfolio/personal-projects/rdpf-ui-example.png": {
-      "modifiedTime": 1722630999446,
-      "sourceSize": 28573,
-      "exportedPath": "portfolio/personal-projects/rdpf-ui-example.png",
-      "dependencies": []
-    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756090851051,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -240,37 +212,37 @@
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756090851051,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756090851051,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756090851051,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756090851051,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756090851051,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
@@ -288,27 +260,253 @@
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756090851051,
       "sourceSize": 439,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1722632039644,
-      "sourceSize": 130471,
+      "modifiedTime": 1756091192014,
+      "sourceSize": 165755,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1722632039644,
-      "sourceSize": 236,
+      "modifiedTime": 1756091192014,
+      "sourceSize": 394,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1722632039644,
+      "modifiedTime": 1756091192014,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Portfolio/Personal Projects/Bespoke.pdf": {
+      "modifiedTime": 1756090851051,
+      "sourceSize": 1954294,
+      "exportedPath": "portfolio/personal-projects/bespoke.pdf",
+      "dependencies": []
+    },
+    "Portfolio/Personal Projects/IEKL.pdf": {
+      "modifiedTime": 1756090851051,
+      "sourceSize": 2160014,
+      "exportedPath": "portfolio/personal-projects/iekl.pdf",
+      "dependencies": []
+    },
+    "Portfolio/Personal Projects/rdpf-ui-example.png": {
+      "modifiedTime": 1756090851051,
+      "sourceSize": 28573,
+      "exportedPath": "portfolio/personal-projects/rdpf-ui-example.png",
+      "dependencies": []
+    },
+    "Portfolio/Personal Projects/RPiStream.md": {
+      "modifiedTime": 1756090851051,
+      "sourceSize": 1107,
+      "exportedPath": "portfolio/personal-projects/rpistream.html",
+      "dependencies": []
+    },
+    "Portfolio/Personal Projects/RustyDigitalPitchFollower.md": {
+      "modifiedTime": 1756090851051,
+      "sourceSize": 999,
+      "exportedPath": "portfolio/personal-projects/rustydigitalpitchfollower.html",
+      "dependencies": [
+        "portfolio/personal-projects/rdpf-ui-example.png"
+      ]
+    },
+    "Portfolio/Personal Projects/saving-castaway-bob.pdf": {
+      "modifiedTime": 1756090851051,
+      "sourceSize": 401353,
+      "exportedPath": "portfolio/personal-projects/saving-castaway-bob.pdf",
+      "dependencies": []
+    },
+    "Portfolio/Personal Projects/vocal-timbre-transfer.pdf": {
+      "modifiedTime": 1756090851051,
+      "sourceSize": 510106,
+      "exportedPath": "portfolio/personal-projects/vocal-timbre-transfer.pdf",
+      "dependencies": []
+    },
+    "Portfolio/headshot.jpg": {
+      "modifiedTime": 1756090851051,
+      "sourceSize": 1011099,
+      "exportedPath": "portfolio/headshot.jpg",
+      "dependencies": []
+    },
+    "Portfolio/index.md": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 8757,
+      "exportedPath": "portfolio/index.html",
+      "dependencies": [
+        "portfolio/headshot.jpg"
+      ]
+    },
+    "lib/fonts/293fd13dbca5a3e450ef.woff2": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 105924,
+      "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/085cb93e613ba3d40d2b.woff2": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 112184,
+      "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/media/favicon.ico": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 15406,
+      "exportedPath": "lib/media/favicon.ico",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 896585,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "portfolio/headshot.jpg": {
+      "modifiedTime": 1756091192014,
+      "sourceSize": 1011099,
+      "exportedPath": "portfolio/headshot.jpg",
       "dependencies": []
     }
   }
